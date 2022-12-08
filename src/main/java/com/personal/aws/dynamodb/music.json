@@ -1,0 +1,38 @@
+[{
+  "Artist": "No One You Know",
+  "SongTitle": "My Dog Spot",
+  "AlbumTitle": "Hey Now",
+  "Price": 1.98,
+  "Genre": "Country",
+  "CriticRating": 8.4
+},
+{
+  "Artist": "No One You Know",
+  "SongTitle": "Somewhere Down The Road",
+  "AlbumTitle": "Somewhat Famous",
+  "Genre": "Country",
+  "CriticRating": 8.4,
+  "Year": 1984
+},
+{
+  "Artist": "The Acme Band",
+  "SongTitle": "Still in Love",
+  "AlbumTitle": "The Buck Starts Here",
+  "Price": 2.47,
+  "Genre": "Rock",
+  "PromotionInfo": {
+    "RadioStationsPlaying": {"KHCR", "KQBX", "WTNR", "WJJH"},
+    "TourDates": {
+      "Seattle": "20150622",
+      "Cleveland": "20150630"
+    },
+    "Rotation": "Heavy"
+  }
+}
+{
+  "Artist": "The Acme Band",
+  "SongTitle": "Look Out, World",
+  "AlbumTitle": "The Buck Starts Here",
+  "Price": 0.99,
+  "Genre": "Rock"
+} ]
